@@ -1,0 +1,29 @@
+{
+  "main_theme":{
+    "error_color":"#ff0000",
+    "profile_background":"#39a872",
+    "profile_progress":"#38c781",
+    "profile_xpbar":"#3dd98d"
+  },
+  "blue_theme":{
+    "main_color":"#4c75d4",
+    "error_color":"#0f1c4f",
+    "profile_background":"#4d66b8",
+    "profile_progress":"#5374c9",
+    "profile_xpbar":"#5f7fe8"
+  },
+  "red_theme":{
+    "main_color":"#d44c67",
+    "error_color":"#801b1b",
+    "profile_background":"#b84d4d",
+    "profile_progress":"#c95362",
+    "profile_xpbar":"#e85f71"
+  },
+  "purple_theme":{
+    "main_color":"#a74cd4",
+    "error_color":"#250f4f",
+    "profile_background":"#814db8",
+    "profile_progress":"#9853c9",
+    "profile_xpbar":"#aa5fe8"
+  }
+}
